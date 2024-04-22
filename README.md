@@ -37,9 +37,9 @@ RunFastTurtle is a fun and interactive turtle racing game developed using Python
    ```
 
 ## Credits
-# Himel Sarder
-# Dept. of CSE, BSFMSTU
-# Gmail - info.himelcse@gmail.com
-# Linedin - https://www.linkedin.com/in/himel-sarder/
+### Himel Sarder
+### Dept. of CSE, BSFMSTU
+### Gmail - info.himelcse@gmail.com
+### Linedin - https://www.linkedin.com/in/himel-sarder/
 
 ## Thank You
