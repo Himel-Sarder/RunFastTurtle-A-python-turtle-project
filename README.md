@@ -1,4 +1,5 @@
 # RunFastTurtle
+![image](https://github.com/Himel-Sarder/RunFastTurtle-A-python-turtle-project/assets/143216886/62de010c-690a-4a33-a35e-fc85efab56e7)
 
 ![image](https://github.com/Himel-Sarder/RunFastTurtle-A-python-turtle-project/assets/143216886/d5f8d056-4a75-4968-8e3c-91120a8aa9a1)
 ![image](https://github.com/Himel-Sarder/RunFastTurtle-A-python-turtle-project/assets/143216886/27d35c8c-9640-4886-9cd2-999ac00ba0ce)
